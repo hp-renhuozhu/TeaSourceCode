@@ -95,6 +95,7 @@
     <Content Include="README.txt" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
+    <Content Include="WebFormDing.aspx" />
     <Content Include="WebFormNew.aspx" />
     <Content Include="WebTheLeatest.aspx" />
   </ItemGroup>
@@ -114,6 +115,13 @@
     </Compile>
     <Compile Include="WebForm1.aspx.designer.cs">
       <DependentUpon>WebForm1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebFormDing.aspx.cs">
+      <DependentUpon>WebFormDing.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebFormDing.aspx.designer.cs">
+      <DependentUpon>WebFormDing.aspx</DependentUpon>
     </Compile>
     <Compile Include="WebFormNew.aspx.cs">
       <DependentUpon>WebFormNew.aspx</DependentUpon>
