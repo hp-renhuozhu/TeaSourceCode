@@ -42,3 +42,7 @@ test the commit operation.
 
 
 xxxxxxxxxxxxxxxxxxxxx
+
+
+2013/7/9/10:16
+deal with the conflict.

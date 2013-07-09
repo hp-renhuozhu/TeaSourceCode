@@ -9,6 +9,11 @@ namespace WebApplicationTest
 {
     public partial class WebForm1 : System.Web.UI.Page
     {
+        public string Name
+        {
+            get;
+            set;
+        }
         protected void Page_Load(object sender, EventArgs e)
         {
 

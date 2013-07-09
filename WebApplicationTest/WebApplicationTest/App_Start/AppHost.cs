@@ -23,7 +23,10 @@ namespace WebApplicationTest.App_Start
 {
 	public class AppHost
 		: AppHostBase
-	{		
+	{
+
+        public string Code { get; set; }
+
 		public AppHost() //Tell ServiceStack the name and where to find your web services
 			: base("StarterTemplate ASP.NET Host", typeof(HelloService).Assembly) { }
 
