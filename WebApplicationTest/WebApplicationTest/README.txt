@@ -49,3 +49,8 @@ deal with the conflict.
 2013/7/9/10:30
 deal with the conflict in the lenovo.
 
+
+
+2013/7/9/11:19
+deal with the conflict in the hp.
+
