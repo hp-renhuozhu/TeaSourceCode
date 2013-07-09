@@ -56,3 +56,8 @@ deal with the conflict in the hp.
 2013/7/9/23:28
 deal with the conflict in the lenovo for merge
 
+
+
+2013/7/9/11:31
+dinghaixian
+
