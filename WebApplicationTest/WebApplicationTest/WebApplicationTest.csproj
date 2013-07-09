@@ -96,6 +96,7 @@
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
     <Content Include="WebFormNew.aspx" />
+    <Content Include="WebTheLeatest.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\AppHost.cs" />
@@ -120,6 +121,13 @@
     </Compile>
     <Compile Include="WebFormNew.aspx.designer.cs">
       <DependentUpon>WebFormNew.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebTheLeatest.aspx.cs">
+      <DependentUpon>WebTheLeatest.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebTheLeatest.aspx.designer.cs">
+      <DependentUpon>WebTheLeatest.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
