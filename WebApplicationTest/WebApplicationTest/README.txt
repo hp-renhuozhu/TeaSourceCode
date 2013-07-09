@@ -42,3 +42,6 @@ test the commit operation.
 
 
 xxxxxxxxxxxxxxxxxxxxx
+
+2013/7/9/10:30
+deal with the conflict in the lenovo.
