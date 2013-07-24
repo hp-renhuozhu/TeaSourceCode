@@ -15,21 +15,10 @@
         dfsafdasd
         sdsdsdsdsds
         dsd
-<<<<<<< HEAD
         
-
-
-
-
-
-
-
-
         now, I deal with conflictions.
-=======
         1111
         can you deal with the confliction.
->>>>>>> f61b631720b09a4205d777ec1c50d99fada8de95
     </div>
     </form>
 </body>
