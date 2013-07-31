@@ -1,0 +1,4 @@
+C:\projects\TeaSourceCode\WebApplicationTest\WebHelper\bin\Debug\WebHelper.dll
+C:\projects\TeaSourceCode\WebApplicationTest\WebHelper\bin\Debug\WebHelper.pdb
+C:\projects\TeaSourceCode\WebApplicationTest\WebHelper\obj\Debug\WebHelper.dll
+C:\projects\TeaSourceCode\WebApplicationTest\WebHelper\obj\Debug\WebHelper.pdb
