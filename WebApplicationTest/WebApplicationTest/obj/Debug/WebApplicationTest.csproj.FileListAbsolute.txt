@@ -41,7 +41,6 @@ C:\projects\TeaSourceCode\WebApplicationTest\WebApplicationTest\bin\ServiceStack
 C:\projects\TeaSourceCode\WebApplicationTest\WebApplicationTest\bin\ServiceStack.Text.xml
 C:\projects\TeaSourceCode\WebApplicationTest\WebApplicationTest\obj\Debug\WebApplicationTest.dll
 C:\projects\TeaSourceCode\WebApplicationTest\WebApplicationTest\obj\Debug\WebApplicationTest.pdb
-C:\projects\TeaSourceCode\WebApplicationTest\WebApplicationTest\obj\Debug\WebApplicationTest.csprojResolveAssemblyReference.cache
 C:\projects\MergeSourceCode\TeaSourceCode\WebApplicationTest\WebApplicationTest\bin\WebApplicationTest.dll
 C:\projects\MergeSourceCode\TeaSourceCode\WebApplicationTest\WebApplicationTest\bin\WebApplicationTest.pdb
 C:\projects\MergeSourceCode\TeaSourceCode\WebApplicationTest\WebApplicationTest\bin\Microsoft.Web.Infrastructure.dll
