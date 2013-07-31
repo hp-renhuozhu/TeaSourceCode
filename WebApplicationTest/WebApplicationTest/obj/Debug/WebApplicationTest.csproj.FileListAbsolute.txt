@@ -63,3 +63,4 @@ C:\projects\MergeSourceCode\TeaSourceCode\WebApplicationTest\WebApplicationTest\
 C:\projects\MergeSourceCode\TeaSourceCode\WebApplicationTest\WebApplicationTest\obj\Debug\WebApplicationTest.csprojResolveAssemblyReference.cache
 C:\projects\MergeSourceCode\TeaSourceCode\WebApplicationTest\WebApplicationTest\obj\Debug\WebApplicationTest.dll
 C:\projects\MergeSourceCode\TeaSourceCode\WebApplicationTest\WebApplicationTest\obj\Debug\WebApplicationTest.pdb
+C:\projects\TeaSourceCode\WebApplicationTest\WebApplicationTest\obj\Debug\WebApplicationTest.csprojResolveAssemblyReference.cache
