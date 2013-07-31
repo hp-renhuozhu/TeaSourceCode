@@ -6,3 +6,4 @@ C:\projects\MergeSourceCode\TeaSourceCode\WebApplicationTest\WebHelper\bin\Debug
 C:\projects\MergeSourceCode\TeaSourceCode\WebApplicationTest\WebHelper\bin\Debug\WebHelper.pdb
 C:\projects\MergeSourceCode\TeaSourceCode\WebApplicationTest\WebHelper\obj\Debug\WebHelper.dll
 C:\projects\MergeSourceCode\TeaSourceCode\WebApplicationTest\WebHelper\obj\Debug\WebHelper.pdb
+C:\projects\TeaSourceCode\WebApplicationTest\WebHelper\obj\Debug\WebHelper.csprojResolveAssemblyReference.cache
