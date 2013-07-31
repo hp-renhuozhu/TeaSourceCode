@@ -12,5 +12,20 @@ namespace WebHelper
        {
            return true;
        }
+
+       public string GetValue() 
+       {
+           return "val";
+       }
+
+       public bool SetValue() 
+       {
+           return false;
+       }
+
+       public object GetObj() 
+       {
+           return new { customer = "dsa" };
+       }
     }
 }
