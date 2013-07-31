@@ -16,5 +16,10 @@ namespace WebHelper
         {
             string val = "";
         }
+
+        public object getObj() 
+        {
+            return new { zhurenhuo = "liudehua" };
+        }
     }
 }
